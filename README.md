@@ -1,18 +1,15 @@
-## Hi there 👋 I'm dslr0700
+# Hi there 👋 I'm dslr0700
 
-<!--
-**dslr0700/dslr0700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 개발자 소개
+- 💻 대한민국의 청소년 아마추어 개발자
+- 🌱 공부하는 언어: Python, HTML, Javascript
+- 🔭 개발중인 작품: 내신 계산기, 온라인 메모장, 온라인 캘린더, 학교 온라인 소통공간
+- ✉️ 이메일: dslr0700@gmail.com
 
-Here are some ideas to get you started:
+## 인사말
+안녕하세요, dslr0700입니다!
+청소년 개발자로, 청소년의, 청소년에 의한, 청소년을 위한 프로그램을 만들고 싶어요.
+읽어주셔서 감사합니다!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- Amateur developer in Korea
-- I'm learning: Python, HTML&CSS&JavaScript
+### 재미있는 사실
+제 닉네임 "dslr0700"은 니콘의 D700이라는 카메라의 이름에서 따왔습니다. 사실 저는 디카 사진에도 관심이 많답니다.
